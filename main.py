@@ -1,3 +1,4 @@
+"""HoLA"""
 from classVenta import Venta
 
 venta = Venta()

@@ -1,3 +1,4 @@
+"""hOLA"""
 class Venta:
 
     __id_venta = None
